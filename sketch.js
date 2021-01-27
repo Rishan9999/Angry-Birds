@@ -32,6 +32,8 @@ function setup(){
 
     baseG = new Ground(200,300,400,200)
 
+    // test
+
 }
 
 function draw(){
